@@ -9,3 +9,6 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# mukesh@2001#
+# mukesh.vijayakumar20@gmail.com
